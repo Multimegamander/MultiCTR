@@ -9,7 +9,7 @@
   </a>
 </p>
 
-MultiCTR is a fully fledged 3DS CFW/bootloader that's meant to be versatile, flexable, and easy to build upon.
+MultiCTR is a fully fledged 3DS CFW/bootloader that's meant to be installed to the boot0 partition, versatile, flexable, and easy to build upon.
 
 
 ## Getting Started
