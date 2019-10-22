@@ -3,7 +3,7 @@
 .global _start
 _start:
     @ Change the stack pointer
-    mov sp, #0x23000000
+    mov sp, #0x08100000
 
     @ Disable caches / MPU
     mrc p15, 0, r0, c1, c0, 0 @ read control register
