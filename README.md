@@ -39,7 +39,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Multimegamander** - *Main dev* - [Multimegamander](https://github.com/Multimegamander)
+* **[Multimegamander](https://github.com/Multimegamander)** - *Main dev* - 
+* **[Aurora Wright](https://github.com/AuroraWright)** - *Luma3DS Creator* -
 
 See also the list of [contributors](https://github.com/ctrbrew/MultiCTR/contributors) who participated in this project.
 
